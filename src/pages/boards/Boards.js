@@ -98,7 +98,7 @@ function Boards() {
         <main id="main" className="main">
             <div className="title">
                 <h2>자료실</h2>
-                {userRole === 'LV3' && (
+                {userRole === 'LV3' ? (
                     <div>
                         <select style={{ border: "none", padding: 10 }} onChange={handleDepartmentChange} value={selectedDepartment}>
                             <option value="">부서 선택</option>
@@ -107,8 +107,7 @@ function Boards() {
                             ))}
                         </select>
                     </div>
-                )}
-                {(userRole === 'LV1' || userRole === 'LV2') && (
+                ) : (
                     <ul style={{ margin: 0, padding: 0 }}>
                         <li style={{ listStyle: 'none' }}>{depName}</li>
                     </ul>
