@@ -1,3 +1,6 @@
+<a href="https://github.com/daeun100299/FinalProject_Ketchup-Back">KETCHUP(Back)로 이동하기</a>
+
+<br></br>
 <h2>프로젝트 소개</h2>
 <p>
   그룹웨어 사이트 'Ketchup'은 기업 내 업무 공유와 협업을 원활하게 하여 업무의 효율성을 높이고, 결과적으로 기업의 생산성 향상에 크게 기여합니다.
