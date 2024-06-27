@@ -1,4 +1,4 @@
-<a href="https://github.com/daeun100299/FinalProject_Ketchup-Back">KETCHUP(Back)로 이동하기</a>
+<a href="https://github.com/daeun100299/FinalProject_Ketchup-Back">KETCHUP(Back)로 이동</a>
 
 <br></br>
 <h2>프로젝트 소개</h2>
